@@ -63,7 +63,7 @@ export const certificateData = [
 
 //ProjectCard.astro
 export const projectData = [
-    {imageSrc: "/src/assets/images/project/Tic_Tac_Toe.png", alt: "Tic Tac Toe game screenshot", name: "Tic Tac Toe", description: "React+Next.js and TailWindCSS", websiteLink: "https://github.com/PavelPaliakou/TicTacToe", githubLink: "https://github.com/PavelPaliakou/TicTacToe"},
+    {imageSrc: "/src/assets/images/project/Tic_Tac_Toe.png", alt: "Tic Tac Toe game screenshot", name: "Tic Tac Toe", description: "React+Next.js and TailWindCSS", websiteLink: "https://tic-tac-toe-nine-flame.vercel.app/", githubLink: "https://github.com/PavelPaliakou/TicTacToe"},
     {imageSrc: "/src/assets/images/project/Weather_page.png", alt: "Weather page screenshot", name: "Weather page", description: "HTML, TailWindCSS and JS with OpenWeather API", websiteLink: "https://pavelpaliakou.github.io/weather_page/", githubLink: "https://github.com/PavelPaliakou/weather_page"},
     {imageSrc: "/src/assets/images/project/Resume_website.png", alt: "This site screenshot", name: "Resume website", description: "HTML, CSS, JS and astro framework", websiteLink: "https://pavelpaliakou.netlify.app/", githubLink: "https://github.com/PavelPaliakou/resume_website"},
     {imageSrc: "/src/assets/images/project/Product_Landing_page.png", alt: "Product landing page screenshot", name: "Product Landing Page", description: "Simple page with pure HTML and CSS", websiteLink: "https://pavelpaliakou.github.io/product_landing_page/", githubLink: "https://github.com/PavelPaliakou/product_landing_page"}
