@@ -1,7 +1,7 @@
 # My resume web-site.
 HTML, CSS, JS and Astro framework.
 
-You can see it online here - https://pavelpaliakou.netlify.app/
+You can see it online [here](https://pavelpaliakou.netlify.app/)
 
 
 ## Astro Starter Kit: Minimal
