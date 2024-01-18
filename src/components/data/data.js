@@ -1,7 +1,7 @@
 
 //Skills.astro
 export const skills = [
-    {link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", name: "Java (SE)"}, 
+    {link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", name: "Java"}, 
     {link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg", name:  "Spring"}, 
     {link: "./JUnit.svg", name: "JUnit"}, 
     {link: "./Mockito_Logo.png", name: "Mockito"}, 
