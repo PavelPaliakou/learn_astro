@@ -1,3 +1,9 @@
+/*
+Possible skills
+{link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg", name: "Kubernates"}, 
+{link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg", name: "Jenkins"},
+*/
+
 
 //Skills.astro
 export const skills = [
