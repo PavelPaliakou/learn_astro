@@ -68,6 +68,13 @@ export const certificateData = [
 ];
 
 //ProjectCard.astro
+// {
+//     imageSrc: "/src/assets/images/project/ShoppingCart.png", alt: "Shopping cart app screenshot", name: "Shopping Cart", description: "React, Redux, TailWindCSS and FakeStoreAPI", websiteLink: "https://github.com/PavelPaliakou/shopping-cart-app", githubLink: "https://github.com/PavelPaliakou/shopping-cart-app"
+// }
+// {
+//     imageSrc: "/src/assets/images/project/FoodRecipe.png", alt: "Food Recipe app screenshot", name: "Food Recipe", description: "React, TailWindCss and ForkifyAPI", websiteLink: "https://github.com/PavelPaliakou/food-recipe-app", githubLink: "https://github.com/PavelPaliakou/food-recipe-app"
+// }
+
 export const projectData = [
     {imageSrc: "/src/assets/images/project/Tic_Tac_Toe.png", alt: "Tic Tac Toe game screenshot", name: "Tic Tac Toe", description: "React+Next.js and TailWindCSS", websiteLink: "https://tic-tac-toe-nine-flame.vercel.app/", githubLink: "https://github.com/PavelPaliakou/TicTacToe"},
     {imageSrc: "/src/assets/images/project/Weather_page.png", alt: "Weather page screenshot", name: "Weather page", description: "HTML, TailWindCSS and JS with OpenWeather API", websiteLink: "https://pavelpaliakou.github.io/weather_page/", githubLink: "https://github.com/PavelPaliakou/weather_page"},
