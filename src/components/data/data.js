@@ -9,8 +9,9 @@ Possible skills
 export const skills = [
     { link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", name: "Java" },
     { link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg", name: "Spring" },
-    { link: "./JUnit.svg", name: "JUnit" },
-    { link: "./Mockito_Logo.png", name: "Mockito" },
+    // { link: "./JUnit.svg", name: "JUnit" },
+    // { link: "./Mockito_Logo.png", name: "Mockito" },
+    { link: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg", name: "React"},
     { link: "./maven.svg", name: "Maven" },
     { link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg", name: "MySQL" },
     { link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", name: "PostgreSQL" },
